@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fx_char">#FFFFFFFF</color>
+    <color name="edit_background">#111827</color>
+    <color name="edit_stroke">#7C4DFF</color>
+</resources>

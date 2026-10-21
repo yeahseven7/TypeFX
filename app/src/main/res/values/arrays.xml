@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="type_animations">
+        <item>Pop</item>
+        <item>Slide</item>
+        <item>Fade</item>
+        <item>Bounce</item>
+        <item>Glitch</item>
+    </string-array>
+
+    <string-array name="delete_animations">
+        <item>Shrink</item>
+        <item>Fall</item>
+        <item>Explode</item>
+        <item>Slide Left</item>
+    </string-array>
+
+    <string-array name="particle_effects">
+        <item>None</item>
+        <item>Sparks</item>
+        <item>Confetti</item>
+        <item>Bubbles</item>
+    </string-array>
+
+</resources>
