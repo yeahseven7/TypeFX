@@ -7,7 +7,7 @@ import android.content.Context
 import android.content.SharedPreferences
 import android.graphics.PointF
 import android.media.AudioManager
-import android.os.HapticFeedbackConstants
+import android.view.HapticFeedbackConstants
 import android.os.SystemClock
 import android.util.TypedValue
 import android.view.View
